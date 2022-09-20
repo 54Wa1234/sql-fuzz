@@ -4,8 +4,8 @@ select
 ord
 resever
 ord
-（
-）
+(
+)
 '
 "
 %23
